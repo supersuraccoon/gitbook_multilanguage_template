@@ -1,0 +1,21 @@
+{
+    "author": "SuperSuRaccoon",
+    "links": {
+        "sidebar": {
+            "我的博客": "http://www.supersuraccoon-cocos2d.com"
+        }
+    },
+    "plugins" : 
+    [
+        "advanced-emoji",
+        "disqus",
+        "todo",
+        "emphasize",
+        "katex",
+        "mermaid-compat",
+        "chart",
+        "search-pro",
+        "-search",
+        "toc"
+    ]
+}

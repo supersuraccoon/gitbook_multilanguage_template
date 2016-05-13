@@ -1,2 +1,1 @@
-# gitbook_multilanguage_template
-gitbook_multilanguage_template
+[GitBook Multilanguage Template](https://www.gitbook.com/book/supersuraccoon/gitbook_multilanguage_template) source code.

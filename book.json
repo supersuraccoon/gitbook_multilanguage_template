@@ -1,0 +1,31 @@
+{ 
+    "plugins" : 
+    [
+        "advanced-emoji",
+        "disqus",
+        "todo",
+        "emphasize",
+        "katex",
+        "mermaid-compat",
+        "chart",
+        "search-pro",
+        "toc"
+    ],
+    "pluginsConfig": 
+    {
+        "sharing": {
+            "weibo": true,
+            "facebook": true,
+            "twitter": true
+        },
+        "disqus": {
+            "shortName": "supersuraccoon-gitbook"
+        },
+        "search-pro": {
+            "cutWordLib": "nodejieba"
+        },
+        "chart": {
+            "type": "highcharts"
+        }
+    }
+}
